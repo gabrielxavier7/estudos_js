@@ -6,7 +6,7 @@ const age = 30;
 x = 'Hello, my name is' + name  + ' and I am ' + age + ' years old';
 
 //Teplate Literals
-x = `Hello, my name is ${name}`;
+x = `Hello, my name is ${name} and I am ${age} years old`;
 
 //String Properties and Methods
 const s = new String ('Hello Word');
