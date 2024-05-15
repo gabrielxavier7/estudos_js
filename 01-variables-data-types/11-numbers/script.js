@@ -10,4 +10,12 @@ x = num.toFixed();
 
 x = num.toPrecision();
 
+x = num.toExponential(2)
+
+x = num.toLocaleString('pt-br');
+
+x = num.valueOf();
+
+x = Number.MAX_VALUE;
+x = Number.MIN_VALUE;
 console.log(x);
